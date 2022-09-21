@@ -1,0 +1,5 @@
+map_name: v3_VC_Factories
+games:
+- {game_name: V3_VC_Factories, file_name: v3_VC_factories.xml}
+- {game_name: V3_VC_Factories_China_to_USA, file_name: v3_VC_factories_China_to_USA.xml}
+version: 0
